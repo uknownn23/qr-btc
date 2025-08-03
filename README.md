@@ -1,1 +1,1 @@
-# qr-btc
+# btc
